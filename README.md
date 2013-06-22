@@ -8,13 +8,11 @@ These JS are certified to be used in our projects.
 
 Add this line to your application's Gemfile:
 
-    gem 'xitec_core_vendor_gui_js_common', git: 'git://github.com/x-itec/xitec_core_vendor_gui_uniform.git'
+    gem 'xitec_core_vendor_gui_js_common', git: 'git://github.com/x-itec/xitec_core_vendor_gui_js_common.git'
 
 And then execute:
 
     $ bundle install
-
-
 
 Or install it yourself as: (currently not available)
 
@@ -25,6 +23,4 @@ Or install it yourself as: (currently not available)
 Init assets (Attention this may override some of your scripts no warranty)
 
     $ rails g xitec_core_vendor_gui_js_common:install
-
-
 
