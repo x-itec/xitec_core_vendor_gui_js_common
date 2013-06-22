@@ -7,7 +7,7 @@ module XitecCoreVendorGuiJsCommon
 
     def add_assets
 #      directory "vendor/assets", "vendor/assets"
-      directory "lib/vendor/assets", "app/assets"
+      directory "vendor/assets", "app/assets"
 #      directory "assets/images","public/images"
     end
 
